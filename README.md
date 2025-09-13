@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Roshan, and I'm a Full Stack Developer with over 1.7 years of experience, focused on Spring Boot and .NET Core for backend, Angular for frontend, Docker for deployment, and AWS for cloud solutions. I also have decent algorithmic skills!</h2>
+<h2 align="left">Hi 👋! My name is Roshan, and I'm a Full Stack Developer with over 2+ years of experience, focused on Spring Boot and .NET Core for backend, Angular for frontend, Docker for deployment, and AWS for cloud solutions. I also have decent algorithmic skills!</h2>
 
 ###
 
